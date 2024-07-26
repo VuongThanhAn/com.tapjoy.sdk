@@ -1,0 +1,14 @@
+{
+  "scopedRegistries": [{
+    "name": "My internal registry",
+    "url": "https://my.internal.registry.com",
+    "scopes": [
+      "com.company"
+    ]
+  }],
+  "dependencies": {
+    "com.playad.levelplay.sdk": "https://github.com/VuongThanhAn/com.playad.levelplay.sdk.git"
+  },
+  "enableLockFile": true,
+  "resolutionStrategy": "highestMinor"
+}
