@@ -1,0 +1,12 @@
+<dependencies>
+    <iosPods>
+        <iosPod name="TapjoySDK" version="14.0.1">
+        </iosPod>
+    </iosPods>
+    <androidPackages>
+        <repositories>
+            <repository>https://sdk.tapjoy.com</repository>
+        </repositories>
+        <androidPackage spec="com.tapjoy:tapjoy-android-unitybridge:14.0.1"/>
+    </androidPackages>
+</dependencies>

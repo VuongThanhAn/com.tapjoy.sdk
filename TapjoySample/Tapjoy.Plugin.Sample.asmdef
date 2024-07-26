@@ -1,0 +1,24 @@
+{
+    "name": "Tapjoy.Plugin.Sample",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Advertisement.IosSupport",
+        "Unity.TextMeshPro",
+        "Tapjoy.Plugin.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ads.ios-support",
+            "expression": "0.0.9",
+            "define": "UNITY_IOS_AD_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}

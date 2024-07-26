@@ -1,0 +1,11 @@
+{
+  "name": "com.playad.tapjoy.sdk",
+  "displayName": "TapJoySDK",
+  "version": "12.8.0-preview",
+  "unity": "2022.3",
+  "description": "TapJoy Temp UPM",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.playad.levelplay.sdk": "8.2.0"
+  }
+}
