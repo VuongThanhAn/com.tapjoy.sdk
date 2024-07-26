@@ -6,6 +6,7 @@
   "description": "TapJoy Temp UPM",
   "hideInEditor": false,
   "dependencies": {
-    "com.playad.levelplay.sdk": "8.2.0"
+    "com.playad.levelplay.sdk": "8.2.0",
+    "com.unity.textmeshpro": "3.0.9"
   }
 }
